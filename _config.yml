@@ -1,0 +1,28 @@
+name: aquariatric
+favicon: null
+layout_spectrum: 0.6107765114866197
+typography_spectrum: 0.7146396497264504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6066018377896398
+  lightness: 0.5626965926494449
+  saturation: 0.07752826111391187
+  rhythmicContrast: 0.5820662877522409
+purpose: []
