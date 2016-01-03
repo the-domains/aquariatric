@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[aquariatric]]></title>
         <description><![CDATA[aquariatric]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aquariatric/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 00:11:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 00:48:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aquariatric/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ONE - b.26]]></title>
+            <description><![CDATA[<article><h1>ONE - b.26</h1><p>Ballett am Rhein</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02d0d755359d8f5db3036cc7d4ae4be6c0e29c5e.png"></article>]]></description>
+            <link>https://thegrid.ai/aquariatric/one-b26/index.html</link>
+            <guid isPermaLink="false">10298fae-bbaf-4a4c-8dfb-38fc4f84af20</guid>
+            <pubDate>Sun, 03 Jan 2016 00:48:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4fe96a8-3437-4ed2-8616-839d53ef60b9.JPG" alt="" title="">]]></description>
-            <link>undefinedbcfcda5c-ff3c-4d60-be8c-eed5a4524569/index.html</link>
+            <link>https://thegrid.ai/aquariatric/bcfcda5c-ff3c-4d60-be8c-eed5a4524569/index.html</link>
             <guid isPermaLink="false">bcfcda5c-ff3c-4d60-be8c-eed5a4524569</guid>
             <pubDate>Sun, 03 Jan 2016 00:11:17 GMT</pubDate>
         </item>
