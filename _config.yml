@@ -1,6 +1,6 @@
 name: aquariatric
 favicon: null
-layout_spectrum: 0.44684
+layout_spectrum: 1
 typography_spectrum: 0.79059
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#2b3238'
     - '#6b7082'
   brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.4375
+  lightness: 0.5
+  saturation: 0.0625
   rhythmicContrast: 1
 purpose: []
