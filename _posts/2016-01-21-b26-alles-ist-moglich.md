@@ -15,7 +15,7 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.nno.de/2016/01/b-26-alles-ist-moeglich/'
 title: b.26 - alles ist möglich
-datePublished: '2016-01-21T23:22:56.707Z'
+datePublished: '2016-01-21T23:22:56.774Z'
 dateModified: '2016-01-21T23:22:23.185Z'
 sourcePath: _posts/2016-01-21-b26-alles-ist-moglich.md
 published: true
