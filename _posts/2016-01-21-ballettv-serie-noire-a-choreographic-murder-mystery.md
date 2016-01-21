@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - ballet
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=rZpKFqW8mG4'
 title: 'Ballet.TV: "Série Noire -- A Choreographic Murder Mystery"'
-datePublished: '2016-01-21T23:17:29.170Z'
-dateModified: '2016-01-21T23:16:27.153Z'
+datePublished: '2016-01-21T23:20:45.940Z'
+dateModified: '2016-01-21T23:20:36.700Z'
 sourcePath: _posts/2016-01-21-ballettv-serie-noire-a-choreographic-murder-mystery.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
